@@ -1,9 +1,11 @@
 # Psychological distress in IBS
 
-LAST UPDATED: [Arvid Lundervold](https://www.uib.no/en/persons/Arvid.Lundervold), 2024-07-20
+INITIATED: [Arvid Lundervold](https://www.uib.no/en/persons/Arvid.Lundervold), 2024-07-20
 
-Code and [data](./data/BGA_for_classification_77x13.csv) accompanying the paper: <br>
+Code and [data](./data/BGA_IBS_SSS_B_H_F_R_77x14.csv) accompanying the paper: <br>
 A.J. Lundervold, ..., A. Lundervold. **Decoding IBS: A Machine Learning Approach to Psychological Distress and Gut-Brain Interaction** 
+
+Last updated: 2024-07-22
 
 <!--
 
@@ -73,7 +75,8 @@ pip install shap                  #
 pip install xgboost               # 
 pip install scikit-plot           #
 
-
+# To initiate the ibs environment 
+conda env update -f environment.yml
 
 # To update the ibs environment (if new package versions become available):
 conda update -n ibs --all        # To update all packages in the named environment
