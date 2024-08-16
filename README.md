@@ -2,7 +2,7 @@
 
 INITIATED: [Arvid Lundervold](https://www.uib.no/en/persons/Arvid.Lundervold), 2024-07-20
 
-Code and [data](./data/BGA_IBS_SSS_B_H_F_R_77x14.csv) accompanying the paper: <br>
+[Code[(https://github.com/arvidl/ibs-distress/tree/main/notebooks) and [data](./data/BGA_IBS_SSS_B_H_F_R_77x14.csv) accompanying the paper: <br>
 A.J. Lundervold, J. Billing, B. Berentsen, G.A. Lied, E. Steinsvik, T. Hausken, A. Lundervold.<br> **Decoding IBS: A Machine Learning Approach to Psychological Distress and Gut-Brain Interaction.**
 _BMC Gastroenterology_ (2024) 24:267. doi: 10.1186/s12876-024-03355-z
 
