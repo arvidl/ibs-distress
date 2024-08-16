@@ -3,9 +3,14 @@
 INITIATED: [Arvid Lundervold](https://www.uib.no/en/persons/Arvid.Lundervold), 2024-07-20
 
 Code and [data](./data/BGA_IBS_SSS_B_H_F_R_77x14.csv) accompanying the paper: <br>
-A.J. Lundervold, J. Billing, B. Berentsen, G.A. Lied, E. Steinsvik, T. Hausken, A. Lundervold.<br> **Decoding IBS: A Machine Learning Approach to Psychological Distress and Gut-Brain Interaction.**<br> To appear in _BMC Gastroenterology_ 
+A.J. Lundervold, J. Billing, B. Berentsen, G.A. Lied, E. Steinsvik, T. Hausken, A. Lundervold.<br> **Decoding IBS: A Machine Learning Approach to Psychological Distress and Gut-Brain Interaction.**
+_BMC Gastroenterology_ (2024) 24:267. doi: 10.1186/s12876-024-03355-z
 
-Last updated: 2024-08-10
+
+Last updated: 2024-08-16
+
+<img src="../paper/Lundervold_etal_BMC_Gastroenterology_2024_first_page.png" width="400">
+
 
 <!--
 
@@ -18,8 +23,9 @@ Overleaf Version: https://www.overleaf.com/project/65609f60093ec62d6d1b13cb (res
 
 -->
 
-**Website**: TBA<br>
-**PDF Version**: TBA<br>
+**Website**: https://github.com/arvidl/ibs-distress<br>
+**BMC Gastroenterology**: [here](https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-024-03355-z)<br>
+**PDF Version**: [here](../paper/Lundervold_etal_BMC_Gastroenterology_2024.pdf)<br>
 Overleaf Version: https://www.overleaf.com/project/65609f60093ec62d6d1b13cb (restricted access)<br>
 
 
