@@ -9,7 +9,7 @@ _BMC Gastroenterology_ (2024) 24:267. doi: 10.1186/s12876-024-03355-z
 
 Last updated: 2024-08-16
 
-<img src="../paper/Lundervold_etal_BMC_Gastroenterology_2024_first_page.png" width="400">
+<img src="https://github.com/arvidl/ibs-distress/blob/main/paper/Lundervold_etal_BMC_Gastroenterology_2024_first_page.png" width="400">
 
 
 <!--
@@ -25,7 +25,7 @@ Overleaf Version: https://www.overleaf.com/project/65609f60093ec62d6d1b13cb (res
 
 **Website**: https://github.com/arvidl/ibs-distress<br>
 **BMC Gastroenterology**: [here](https://bmcgastroenterol.biomedcentral.com/articles/10.1186/s12876-024-03355-z)<br>
-**PDF Version**: [here](../paper/Lundervold_etal_BMC_Gastroenterology_2024.pdf)<br>
+**PDF Version**: [here](https://github.com/arvidl/ibs-distress/blob/main/paper/Lundervold_etal_BMC_Gastroenterology_2024.pdf)<br>
 Overleaf Version: https://www.overleaf.com/project/65609f60093ec62d6d1b13cb (restricted access)<br>
 
 
